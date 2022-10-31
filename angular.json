@@ -11,7 +11,7 @@
         "build": {
           "builder": "@nrwl/angular:package",
           "outputs": [
-            "dist/libs/ng2-file-upload"
+            "{workspaceRoot}/dist/libs/ng2-file-upload"
           ],
           "options": {
             "tsConfig": "libs/ng2-file-upload/tsconfig.lib.json",
@@ -37,7 +37,7 @@
         "test": {
           "builder": "@nrwl/jest:jest",
           "outputs": [
-            "coverage/libs/ng2-file-upload"
+            "{workspaceRoot}/coverage/libs/ng2-file-upload"
           ],
           "options": {
             "jestConfig": "libs/ng2-file-upload/jest.config.ts",
@@ -45,7 +45,7 @@
           }
         },
         "version": {
-          "builder": "@nrwl/workspace:run-commands",
+          "builder": "nx:run-commands",
           "outputs": [],
           "options": {
             "commands": [
