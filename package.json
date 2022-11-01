@@ -1,7 +1,6 @@
 {
-  "name": "ng2-file-upload-base",
+  "name": "@ralphinevanbraak/ng2-file-upload-angular-14",
   "version": "3.0.0",
-  "private": true,
   "description": "Angular file upload directives",
   "scripts": {
     "ng": "nx",
@@ -31,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ng2-file-upload.git"
+    "url": "git+ssh://git@github.com/ralphinevanbraak/ng2-file-upload.git"
   },
   "bugs": {
-    "url": "https://github.com/valor-software/ng2-file-upload/issues"
+    "url": "https://github.com/ralphinevanbraak/ng2-file-upload/issues"
   },
-  "homepage": "https://github.com/valor-software/ng2-file-upload#readme",
+  "homepage": "https://github.com/ralphinevanbraak/ng2-file-upload#readme",
   "peerDependencies": {},
   "devDependencies": {
     "@angular-devkit/build-angular": "14.2.3",
