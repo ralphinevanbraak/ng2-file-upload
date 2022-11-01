@@ -1,5 +1,6 @@
 # ng2-file-upload [![npm version](https://badge.fury.io/js/ng2-file-upload.svg)](http://badge.fury.io/js/ng2-file-upload) [![npm downloads](https://img.shields.io/npm/dm/ng2-file-upload.svg)](https://npmjs.org/ng2-file-upload)
-Easy to use Angular2 directives for files upload ([demo](http://valor-software.github.io/ng2-file-upload/))
+Easy to use Angular2 directives for files upload ([demo](http://valor-software.github.io/ng2-file-upload/)).
+This package is Angular 14 compatible.
 
 [![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
 [![Build Status](https://travis-ci.org/valor-software/ng2-file-upload.svg?branch=development)](https://travis-ci.org/valor-software/ng2-file-upload)
@@ -18,7 +19,7 @@ Easy to use Angular2 directives for files upload ([demo](http://valor-software.g
 
 3. More information regarding using of ***ng2-file-upload*** is located in
   [demo](http://valor-software.github.io/ng2-file-upload/) and [demo sources](https://github.com/valor-software/ng2-file-upload/tree/master/demo).
-  
+
 ## Using ***ng2-file-upload*** in a project
 
 1. Install as shown in the above section.
