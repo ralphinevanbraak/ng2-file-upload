@@ -24,7 +24,8 @@
     "bootstrap",
     "twitter-bootstrap",
     "file-upload",
-    "angular-file-upload"
+    "angular-file-upload",
+    "angular14"
   ],
   "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
   "license": "MIT",
