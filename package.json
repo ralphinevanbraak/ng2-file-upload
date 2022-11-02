@@ -1,6 +1,6 @@
 {
   "name": "@ralphinevanbraak/ng2-file-upload-angular-14",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Angular file upload directives",
   "scripts": {
     "ng": "nx",
