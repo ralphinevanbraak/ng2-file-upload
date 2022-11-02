@@ -1,6 +1,15 @@
-# [3.0.0]()
+# [3.0.1]() (2022-11-02)
 
-Updated the library and test project to Angular 13
+### Features
+
+* Updated the README.md with correct information about this package.
+* Updated the git repo url in package.json
+
+# [3.0.0]() (2022-11-01)
+
+### Features
+
+* Updated the library and test project to Angular 14
 
 # [2.0.0-3](https://github.com/valor-software/ng2-file-upload/compare/v2.0.0-2...v2.0.0-3) (2021-09-07)
 

@@ -1,32 +1,28 @@
-# ng2-file-upload [![npm version](https://badge.fury.io/js/ng2-file-upload.svg)](http://badge.fury.io/js/ng2-file-upload) [![npm downloads](https://img.shields.io/npm/dm/ng2-file-upload.svg)](https://npmjs.org/ng2-file-upload)
+# @ralphinevanbraak/ng2-file-upload-angular-14
+[![npm version](https://badge.fury.io/js/@ralphinevanbraak%2Fng2-file-upload-angular-14.svg)](https://badge.fury.io/js/@ralphinevanbraak%2Fng2-file-upload-angular-14)
+
 Easy to use Angular2 directives for files upload ([demo](http://valor-software.github.io/ng2-file-upload/)).
 This package is Angular 14 compatible.
 
-[![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
-[![Build Status](https://travis-ci.org/valor-software/ng2-file-upload.svg?branch=development)](https://travis-ci.org/valor-software/ng2-file-upload)
-[![Dependency Status](https://david-dm.org/valor-software/ng2-file-upload.svg)](https://david-dm.org/valor-software/ng2-file-upload)
-
 ## Quick start
 
-1. A recommended way to install ***ng2-file-upload*** is through [npm](https://www.npmjs.com/search?q=ng2-file-upload) package manager using the following command:
+1. A recommended way to install ***ng2-file-upload-angular-14*** is through [npm](https://www.npmjs.com/package/@ralphinevanbraak/ng2-file-upload-angular-14) package manager using the following command:
 
-  `npm i ng2-file-upload --save`
+  `npm i @ralphinevanbraak/ng2-file-upload-angular-14 --save`
 
-  Alternatively, you can [download it in a ZIP file](https://github.com/valor-software/ng2-file-upload/archive/master.zip).
-
-2. Currently `ng2-file-upload` contains two directives: `ng2-file-select` and `ng2-file-drop`. `ng2-file-select` is used for 'file-input' field of form and
+2. Currently `@ralphinevanbraak/ng2-file-upload-angular-14` contains two directives: `ng2-file-select` and `ng2-file-drop`. `ng2-file-select` is used for 'file-input' field of form and
   `ng2-file-drop` is used for area that will be used for dropping of file or files.
 
-3. More information regarding using of ***ng2-file-upload*** is located in
+3. More information regarding using of ***ng2-file-upload-angular-14*** is located in
   [demo](http://valor-software.github.io/ng2-file-upload/) and [demo sources](https://github.com/valor-software/ng2-file-upload/tree/master/demo).
 
-## Using ***ng2-file-upload*** in a project
+## Using ***ng2-file-upload-angular-14*** in a project
 
 1. Install as shown in the above section.
 
-2. Import `FileUploadModule` into the module that declares the component using ***ng2-file-upload***:
+2. Import `FileUploadModule` into the module that declares the component using ***@ralphinevanbraak/ng2-file-upload-angular-14***:
 
-```import { FileUploadModule } from 'ng2-file-upload';```
+```import { FileUploadModule } from '@ralphinevanbraak/ng2-file-upload-angular-14';```
 
 3. Add it to `[imports]` under `@NgModule`:
 
@@ -34,7 +30,7 @@ This package is Angular 14 compatible.
 
 4. Import `FileUploader` into the component:
 
-```import {  FileUploader } from 'ng2-file-upload';```
+```import {  FileUploader } from '@ralphinevanbraak/ng2-file-upload-angular-14';```
 
 5. Create a variable for the API url:
 
@@ -78,7 +74,7 @@ This package is Angular 14 compatible.
 
 # Troubleshooting
 
-Please follow these guidelines when reporting bugs and feature requests:
+This project is forked from [valor-software/ng2-file-upload](https://github.com/valor-software/ng2-file-upload). Please follow their guidelines when reporting bugs and feature requests:
 
 1. Use [GitHub Issues](https://github.com/valor-software/ng2-file-upload/issues) board to report bugs and feature requests (not our email address)
 2. Please **always** write steps to reproduce the error. That way we can focus on fixing the bug, not scratching our heads trying to reproduce it.

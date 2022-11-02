@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ralphinevanbraak/ng2-file-upload.git"
+    "url": "git+ssh://git@github.com:ralphinevanbraak/ng2-file-upload.git"
   },
   "bugs": {
     "url": "https://github.com/ralphinevanbraak/ng2-file-upload/issues"
