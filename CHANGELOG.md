@@ -1,6 +1,8 @@
-## [3.0.2](https://github.com/ralphinevanbraak/ng2-file-upload/compare/v3.0.1...v3.0.2) (2022-11-02)
+# [3.0.2](https://github.com/ralphinevanbraak/ng2-file-upload/compare/v3.0.1...v3.0.2) (2022-11-02)
 
+### Features
 
+* Built the package
 
 # 3.0.1 (2022-11-02)
 
