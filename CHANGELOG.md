@@ -1,10 +1,14 @@
-## [3.0.4](https://github.com/ralphinevanbraak/ng2-file-upload/compare/v3.0.3...v3.0.4) (2022-11-02)
+# [3.0.4](https://github.com/ralphinevanbraak/ng2-file-upload/compare/v3.0.3...v3.0.4) (2022-11-02)
 
+### Features
 
+* Updated the README.md with compatibility information about this package.
 
-## [3.0.3](https://github.com/ralphinevanbraak/ng2-file-upload/compare/v3.0.2...v3.0.3) (2022-11-02)
+# [3.0.3](https://github.com/ralphinevanbraak/ng2-file-upload/compare/v3.0.2...v3.0.3) (2022-11-02)
 
+### Features
 
+* Updated the README.md with correct information about this package.
 
 # [3.0.2](https://github.com/ralphinevanbraak/ng2-file-upload/compare/v3.0.1...v3.0.2) (2022-11-02)
 

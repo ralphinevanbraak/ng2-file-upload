@@ -4,6 +4,13 @@
 Easy to use Angular2 directives for files upload ([demo](http://valor-software.github.io/ng2-file-upload/)).
 This package is Angular 14 compatible.
 
+## Compatibility table
+
+| @ralphinevanbraak/ng2-file-upload-angular-14 | Angular |
+|----------------------------------------------|---------|
+| < 3.0.0                                      | <= 12   |
+| >= 3.0.0                                     | 14      |
+
 ## Quick start
 
 1. A recommended way to install ***ng2-file-upload-angular-14*** is through [npm](https://www.npmjs.com/package/@ralphinevanbraak/ng2-file-upload-angular-14) package manager using the following command:
